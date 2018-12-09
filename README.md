@@ -10,7 +10,7 @@ The first part of the homework consists in scraping the website of [immobiliare.
   The scritp with the code of our analysis.
   
 2. **`desc_files`**:  
-  This folder contains descriptions that we collected from announcements in Immobiliare.it (each desc_idx.txt is the           corresponds to the description inside an annpouncement). We used these files to build the second dataframe and the word cloud.
+  This folder contains descriptions that we collected from announcements in Immobiliare.it (each desc_n.txt is the description inside an annpouncement). We used these files to build the second dataframe and the word cloud.
 
 3.  **`matrices`**:  
 This folder contains the first dataframe, as a dataframe in a .csv file and as a matrix in a .txt file. The same applies to the second dataframe (stored in *matrix_2.zip*, due to its large dimension). This folder contains also *vocabulary.txt*, where we put the dictionary we created to build the second dataframe.
